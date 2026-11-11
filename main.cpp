@@ -14,9 +14,13 @@ int main()
 
     cout << "Sum = " << a + b << '\n';
 
+    cout << "Total A + B = " << a + b << '\n';
+
     cout << "A - B = " << a + b << '\n';
 
     cout << "Multiplication = " << a * b << '\n';
+
+   cout << "Division = " << a / b << '\n';
 
     return 0;
 }
