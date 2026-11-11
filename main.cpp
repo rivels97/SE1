@@ -1,6 +1,8 @@
-// This program is educational
-#include <iostream>
+// This program is just an example one under VCS.
+// Author: Постников Александр, П-162
+// Year: 2026
 
+#include <iostream>
 using namespace std;
 
 int main()
@@ -8,12 +10,13 @@ int main()
     int a, b;
 
     cout << "Enter A and B: ";
-
     cin >> a >> b;
 
     cout << "A + B = " << a + b << '\n';
 
-    cout << "A - B = " << a - b << '\n';
+    cout << "A - B = " << a + b << '\n';
+
+    cout << "A * B = " << a * b << '\n';
 
     return 0;
 }
