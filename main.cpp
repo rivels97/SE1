@@ -15,7 +15,7 @@ int main()
 
     cout << "A - B = " << a - b << '\n';
 
-    cout << "A / B = " << a / b << '\n';
+   cout << "Division = " << a / b << '\n';
 
     return 0;
 }
